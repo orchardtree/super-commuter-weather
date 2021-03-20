@@ -33,3 +33,9 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/'orchardtree'/super-commuter-weather.
+
+MUST HAVE
+short description,
+install instructions,
+a contributor's guide and a
+link to the license for your code
